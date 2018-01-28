@@ -1,7 +1,7 @@
 # SI-TPA_Al-Mursydien_WithUI
 Aplikasi Sistem Informasi untuk TPA Al-Mursydien Surabaya.
 
-Aplikasi dikerjakan secara Tim, dan saya berperan sebagai Backend
+Aplikasi dikerjakan secara Tim, dan saya sebagai Backend
 
 Aplikasi berbasis Web, menggunakan PHP 7 dan MySQL
 Fitur:
