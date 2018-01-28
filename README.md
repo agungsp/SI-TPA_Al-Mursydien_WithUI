@@ -11,3 +11,5 @@ Fitur:
 * Pencatat SPP
 * Cetak Slip Gaji berdasarkan tunjangan gaji, absensi, dan potongan.
 * Cetak Laporan Bulanan
+
+Database ada [disini](https://github.com/agungsp/SI-TPA_Al-Mursydien_WithUI/blob/master/tpa_al_mursyidien.sql)
